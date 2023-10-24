@@ -1,3 +1,5 @@
+## I am probably going to break everything. Messing around. I'm a terrible engineer so don't trust any of this will be working, secure or anything you want enything to actually be.
+
 # Chat with GPT
 
 Chat with GPT is an open-source, unofficial ChatGPT app with extra features and more ways to customize your experience. It connects ChatGPT with ElevenLabs to give ChatGPT a realistic human voice.
